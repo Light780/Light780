@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB**
 
-- 💬 Ask me about **react, .net, mssql, winforms, asp net**
+- 💬 Ask me about **react, .net, mssql, winforms, asp net, javascript, node**
 
 - 📫 How to reach me **brunorlm88@gmail.com**
 
